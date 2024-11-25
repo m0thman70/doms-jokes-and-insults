@@ -16,6 +16,6 @@ there are rules for this website:
 
 ## Posts
 
-- [You Suck](./you-suck.md)
+- [You Suck](./you-suck)
 
 This website was created and licensed by Dom using the GNU Public License 3.0
